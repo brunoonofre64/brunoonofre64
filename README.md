@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/brunoonofre64">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoonofre64&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoonofre64&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoonofre64&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoonofre64&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
  <img align="center" alt="BrunoJAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
 
