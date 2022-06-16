@@ -1,5 +1,5 @@
 <p align="center">
-### Olá! Eu sou o Bruno Onofre <br><br><br><br>- 🔭 Atualmente sou BackOffice auditor de vendas<br>- 🌱 Estudando desenvolvimento em JAVA <br>- 😄 Pronouns: ele/dele</p>
+## Olá! Eu sou o Bruno Onofre <br><br><br><br>- 🔭 Atualmente sou BackOffice auditor de vendas<br>- 🌱 Estudando desenvolvimento em JAVA <br>- 😄 Pronouns: ele/dele</p>
 
 ###
 <div align="center">
