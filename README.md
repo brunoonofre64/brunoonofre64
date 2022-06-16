@@ -1,19 +1,5 @@
-### Olá! Eu sou o Bruno Onofre 
-
-
-
-- 🔭 Atualmente sou BackOffice auditor de vendas
-- 🌱 Estudando desenvolvimento em JAVA 
-- 😄 Pronouns: ele/dele
-
-<div align="center">
-  <a href="https://github.com/brunoonofre64">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoonofre64&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoonofre64&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
- <img align="center" alt="BrunoJAVA" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="BrunoGit" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
+<p align="center">
+### Olá! Eu sou o Bruno Onofre <br><br><br><br>- 🔭 Atualmente sou BackOffice auditor de vendas<br>- 🌱 Estudando desenvolvimento em JAVA <br>- 😄 Pronouns: ele/dele</p>
 
 ###
 <div align="center">
@@ -55,10 +41,8 @@
   </a>
 </div>
 
+
+###
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ###
-
-
-
-
