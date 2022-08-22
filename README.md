@@ -1,5 +1,5 @@
 <p align="center">
-## Olá! Eu sou o Bruno Onofre <br><br><br><br>- 🔭 Atualmente sou BackOffice auditor de vendas<br>- 🌱 Estudando desenvolvimento em JAVA <br>- 😄 Pronouns: ele/dele</p>
+ Bem vindos ao meu perfil!!  <br><br><br><br>-  Atualmente estagiario em desenvolvimento backebnd no SPC Brasil, usando Java | SpringBoot | SQL Oracle | MongoDB | JUnit | Mockito <br>
 
 ###
 <div align="center">
