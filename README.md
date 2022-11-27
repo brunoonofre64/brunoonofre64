@@ -1,4 +1,12 @@
-<h4 align="left">Hi 👋! My name is Bruno Onofre, I'm from Brazil.<br><br>I've been a Java developer since January 2021, currently working on the backend using the following technologies, Java | SpringBoot | SQL Oracle | MongoDB</4>
+<h4 align="left"> Desenvolvedor de software desde de 2021, entusiasta por tecnologia, apaixonado pelo back-end.</4>
+
+<h4 align="left"> Soft Skills: Autodidatismo, ótima comunicação, organizado, empático, proativo, perfil de liderança.</4>
+
+<h4 align="left">Hard Skills: Java, Spring Boot, Spring Security. Spring Data, API RESTful, Microserviço, Git, Github, GitLab, GitFlow. SQL, NoSQL, Testes unitários, Testes de integração, Swagger.</4>
+
+<h4 align="left">Propósito: Criar soluções de software sempre usando as melhores práticas de desenvolvimento, pensando nos próximos desenvolvedores que virão a dar manutenção no código escrito por mim, e desenvolver sistemas escaláveis.</4>
+
+<h4 align="left">O Bruno: É um cara super alto astral, que tem uma terceira skill que eu chamo de Happy Skill, levo o trabalho muito a sério, mas consigo equilibrar com o meu lado brincalhão, tirando risadas sadias da equipe, e deixando o ambiente mais leve.</4>
 
 ###
 
