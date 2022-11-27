@@ -1,4 +1,4 @@
-<h4 align="left"> Desenvolvedor de software desde de 2021, entusiasta por tecnologia, apaixonado pelo back-end.</4>
+<h4 align="left"> Desenvolvedor de software desde de 2021, entusiasta quando o assunto é tecnologia, apaixonado pelo back-end.</4>
 
 <h4 align="left"> Soft Skills: Autodidatismo, ótima comunicação, organizado, empático, proativo, perfil de liderança.</4>
 
