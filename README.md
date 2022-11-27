@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Bruno Onofre, I'm from Brazil.<br><br>I've been a Java developer since January 2021, currently working on the backend using the following technologies, Java | SpringBoot | SQL Oracle | MongoDB</h1>
+<h4 align="left">Hi 👋! My name is Bruno Onofre, I'm from Brazil.<br><br>I've been a Java developer since January 2021, currently working on the backend using the following technologies, Java | SpringBoot | SQL Oracle | MongoDB</4>
 
 ###
 
