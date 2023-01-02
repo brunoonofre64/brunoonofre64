@@ -2,7 +2,7 @@
 
 <h4 align="left"> Soft Skills: Autodidatismo, ótima comunicação, organizado, empático, proativo, perfil de liderança.</4>
 
-<h4 align="left">Hard Skills: Java, Spring Boot, Spring Security. Spring Data, API RESTful, Microserviço, Git, Github, GitLab, GitFlow. SQL, NoSQL, Testes unitários, Testes de integração, Swagger.</4>
+<h4 align="left">Hard Skills: Java, Spring Boot, Microserviço, GitFlow. SQL, NoSQL, Testes unitários, Testes end-to-end, Jenkins.</4>
 
 <h4 align="left">Propósito: Criar soluções de software sempre usando as melhores práticas de desenvolvimento, pensando nos próximos desenvolvedores que virão a dar manutenção no código escrito por mim, e desenvolver sistemas escaláveis.</4>
 
