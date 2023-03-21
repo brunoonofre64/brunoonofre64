@@ -1,12 +1,5 @@
-<h4 align="left"> Desenvolvedor de software, entusiasta quando o assunto é tecnologia, apaixonado pelo back-end.</4>
+<h4 align="left"> Sou um profissional altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java, com habilidades avançadas em Spring Boot, Microserviços, Docker e segurança, além de forte habilidade em metodologias ágeis, como GitFlow e TDD. Possuo sólidas habilidades em SQL e NoSQL, experiência em testes unitários e end-to-end e excelentes habilidades de comunicação, organização e liderança, estou sempre estudando e atualizando meu conhecimento para contribuir com equipes dinâmicas e alcançar resultados excepcionais.</4>
 
-<h4 align="left"> Soft Skills: Autodidatismo, ótima comunicação, organizado, empático, proativo, perfil de liderança.</4>
-
-<h4 align="left">Hard Skills: Java, Spring Boot, Microserviço, GitFlow. SQL, NoSQL, Testes unitários, Testes end-to-end, Jenkins.</4>
-
-<h4 align="left">Propósito: Criar soluções de software sempre usando as melhores práticas de desenvolvimento, pensando nos próximos desenvolvedores que virão a dar manutenção no código escrito por mim, e desenvolver sistemas escaláveis.</4>
-
-<h4 align="left">O Bruno: É um cara super alto astral, que tem uma terceira skill que eu chamo de Happy Skill, levo o trabalho muito a sério, mas consigo equilibrar com o meu lado brincalhão, tirando risadas sadias da equipe, e deixando o ambiente mais leve.</4>
 
 ###
 
