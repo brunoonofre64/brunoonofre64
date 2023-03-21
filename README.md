@@ -17,7 +17,7 @@ Sou um profissional altamente motivado em desenvolver soluções back-end sólid
 
 ## Troféus
 
-- [![trophy](https://github-profile-trophy.vercel.app/?username=brunoonofre64&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=brunoonofre64&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Contato
