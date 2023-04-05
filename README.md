@@ -1,37 +1,27 @@
-# Olá! Eu sou o Bruno Onofre 👋
-
-## Sobre mim
-
-Sou um profissional altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java, com habilidades avançadas em Spring Boot, Microserviços, Docker e segurança, além de forte habilidade em metodologias ágeis, como GitFlow e TDD. Possuo sólidas habilidades em SQL e NoSQL, experiência em testes unitários e end-to-end e excelentes habilidades de comunicação, organização e liderança, estou sempre estudando e atualizando meu conhecimento para contribuir com equipes dinâmicas e alcançar resultados excepcionais.
-
-## Tecnologias que conheço
-
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=spring)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
-![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle)
-![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-red?style=flat-square&logo=redis)
-
-## Troféus
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=brunoonofre64&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+# 💫 About Me:
+Sou um profissional altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java, com habilidades avançadas em Spring Boot, Microserviços, RESTful API, Docker e segurança, habilidade em metodologias ágeis, como GitFlow e TDD. Possuo sólidas habilidades em SQL e NoSQL, experiência em testes unitários e end-to-end e excelentes habilidades de comunicação, organização e liderança, estou sempre estudando e atualizando meu conhecimento para contribuir com equipes dinâmicas e alcançar resultados excepcionais.
 
 
-## Contato
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bruno-onofre-a9abb6103/) 
 
-- LinkedIn: <https://www.linkedin.com/in/bruno-onofre-a9abb6103/>
-- whatsapp: <https://api.whatsapp.com/send?phone=55489966307781>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=brunoonofre64&theme=onedark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=brunoonofre64&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoonofre64&theme=onedark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-![](https://komarev.com/ghpvc/?username=brunoonofre64&color=grey)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=brunoonofre64&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-## Estatísticas do GitHub
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
-![Estatísticas do GitHub de Bruno Onofre](https://github-readme-stats.vercel.app/api?username=brunoonofre64&show_icons=true&theme=radical)
+---
+[![](https://visitcount.itsvg.in/api?id=brunoonofre64&icon=0&color=4)](https://visitcount.itsvg.in)
 
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
