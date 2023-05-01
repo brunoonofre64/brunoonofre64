@@ -18,9 +18,6 @@ Sou um profissional altamente motivado em desenvolver soluções back-end sólid
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=brunoonofre64&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=brunoonofre64&icon=0&color=4)](https://visitcount.itsvg.in)
 
